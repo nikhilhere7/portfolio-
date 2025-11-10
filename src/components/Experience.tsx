@@ -4,7 +4,7 @@ const experiences = [
   {
     title: "Co-Founder & Operations Manager",
     company: "Veechimonk (E-Commerce Clothing Brand)",
-    period: "jun 202 - aug 2025",
+    period: "jun 2023 - aug 2025",
     link: "https://mydukaan.io/veechimonk/blog",
     highlights: [
       "Co-founded and managed an online clothing brand offering 20+ products and consistent monthly sales",
