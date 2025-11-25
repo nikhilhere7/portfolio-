@@ -13,6 +13,12 @@ const projects = [
     description: "Personal portfolio website showcasing projects, skills, and professional experience with modern animations and responsive design.",
     link: "https://github.com/nikhilhere7",
     tags: ["React", "TypeScript", "Tailwind CSS"]
+  },
+  {
+    title: "Income & Expense Prediction (ML Project)",
+    description: "Machine Learning project analyzing ANZ bank transaction data to predict each user's income and expenses. Includes feature engineering, Random Forest models, evaluation, insights, and full documentation.",
+    link: "https://github.com/nikhilhere7/Expenses-Income-Prediction",
+    tags: ["Python", "Machine Learning", "Pandas", "Scikit-Learn", "Finance"]
   }
 ];
 
